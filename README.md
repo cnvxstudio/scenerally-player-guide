@@ -4,7 +4,7 @@ This guide is prepared by the SceneRally team for people trying an interactive f
 
 Official experience: [SceneRally](https://interactivestory.io/)
 
-![SceneRally shared battlefield and story choices](assets/scenerally-public-product.jpg)
+![SceneRally shared battlefield and story choices](scenerally-public-product.jpg)
 
 ## Start with the shared scene
 
